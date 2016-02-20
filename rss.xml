@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[LT]]></title>
+        <description><![CDATA[LT]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 20 Feb 2016 13:46:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Interconnecting.org can play a powerful role in strengthening information resources to address the most urgent global issues such as combatting hunger, poverty, oppression, and environmental destruction. These endeavors will demand unprecedented international cooperation and collaboration across different sectors and between levels of society.  Interconnecting technology can help to coordinate these challenging undertakings.</p>]]></description>
+            <link>undefined89dd8a47-f3d6-47b1-bf7f-94aa4def39f1/index.html</link>
+            <guid isPermaLink="false">89dd8a47-f3d6-47b1-bf7f-94aa4def39f1</guid>
+            <pubDate>Sat, 20 Feb 2016 13:45:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
